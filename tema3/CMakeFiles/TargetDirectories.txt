@@ -1,0 +1,3 @@
+/home/anemona/Desktop/tema1/CMakeFiles/Tema3.dir
+/home/anemona/Desktop/tema1/CMakeFiles/edit_cache.dir
+/home/anemona/Desktop/tema1/CMakeFiles/rebuild_cache.dir
